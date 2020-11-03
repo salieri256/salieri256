@@ -1,2 +1,2 @@
 <h1>Welcome!</h1>
-<img src="test.png" alt="test">
+<img src="https://grass-graph.moshimo.works/images/salieri256.png">
