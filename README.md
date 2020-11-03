@@ -1,2 +1,2 @@
-# Welcome
-![salieri256's github stats](https://github-readme-stats.vercel.app/api?username=salieri256)
+# Welcome!!!
+![さりえり の ステータス](https://github-readme-stats.vercel.app/api?username=salieri256)
