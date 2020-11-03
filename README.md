@@ -6,15 +6,8 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <head>
-
-    </head>
-    <main>
+    <div class="main">
         <img src="test.png" alt="test">
-    </main>
-    <footer>
-
-    </footer>
-    
+    </div>
 </body>
 </html>
