@@ -1,2 +1,3 @@
-# Welcome!!!
-![さりえり のステータス](https://github-readme-stats.vercel.app/api?username=salieri256)
+# Hi there 👋
+
+![](./profile-3d-contrib/profile-green-animate.svg)
