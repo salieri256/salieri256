@@ -1,0 +1,48 @@
+name: GitHub-Metrics
+
+on:
+  schedule: # 08:23 JST == 23:23 UTC
+    - cron: "23 23 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-calendar:
+    runs-on: ubuntu-latest
+    name: Generate isocalendar
+    steps:
+      - uses: actions/checkout@v4
+      - name: Full-year calendar
+        uses: lowlighter/metrics@main
+        with:
+          token: ${{ secrets.MY_PERSONAL_ACCESS_TOKEN }}
+          filename: metrics/isocalendar.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+  generate-topics:
+    runs-on: ubuntu-latest
+    name: Generate topics
+    steps:
+      - uses: actions/checkout@v4
+      - name: Starred topics
+        uses: lowlighter/metrics@main
+        with:
+          token: ${{ secrets.MY_PERSONAL_ACCESS_TOKEN }}
+          filename: metrics/topics.svg
+          base: ""
+          plugin_topics: yes
+  generate-followup:
+    runs-on: ubuntu-latest
+    name: Generate followup
+    steps:
+      - uses: actions/checkout@v4
+      - name: Follow-up of issues and pull requests
+        uses: lowlighter/metrics@main
+        with:
+          token: ${{ secrets.MY_PERSONAL_ACCESS_TOKEN }}
+          filename: metrics/followup.svg
+          base: ""
+          plugin_followup: yes
