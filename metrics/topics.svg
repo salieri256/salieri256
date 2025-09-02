@@ -26,12 +26,12 @@
                             <div class="label" title="Kubernetes is an open source system for automating deployment, scaling, and management of containerized applications.">kubernetes</div>
                             <div class="label" title="React Native is a JavaScript mobile framework developed by Facebook.">react native</div>
                             <div class="label" title="npm is a package manager for JavaScript included with Node.js.">npm</div>
+                            <div class="label" title="Ansible is a simple and powerful automation engine.">ansible</div>
                             <div class="label" title="An infrastructure-as-code tool for building, changing, and versioning infrastructure safely and efficiently.">terraform</div>
                             <div class="label" title="You’re lookin’ at it.">github</div>
                             <div class="label" title="Three.js allows the creation of Graphical Processing Unit (GPU)-accelerated 3D animations using JavaScript.">three.js</div>
                             <div class="label" title="">webgl</div>
-                            <div class="label" title="GitHub Actions is a platform for developer workflow orchestration and automation.">actions</div>
-                            <div class="label" title="expo, glsl, proxmox, argocd, aftereffects">and 5 more...</div>
+                            <div class="label" title="Actions, glsl, proxmox, argocd, aftereffects">and 5 more...</div>
                         </div>
                     </section>
                 </div>
