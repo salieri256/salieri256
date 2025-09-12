@@ -8,7 +8,7 @@
 
 ## Skill
 
-[![programming languages](https://skillicons.dev/icons?perline=15&theme=light&i=nodejs,js,ts,py,md,docker,git,githubactions)](https://skillicons.dev)
+204 No Content
 
 ---
 
