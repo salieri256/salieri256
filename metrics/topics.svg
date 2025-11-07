@@ -19,8 +19,8 @@
                             <div class="label" title="Python is a dynamically typed programming language.">python</div>
                             <div class="label" title="Cascading Style Sheets (CSS) is a language used most often to style and improve upon the appearance of views.">css</div>
                             <div class="label" title="React is an open source JavaScript library used for designing user interfaces.">react</div>
-                            <div class="label" title="Git is the most widely used version control system.">git</div>
                             <div class="label" title="Node.js is a tool for executing JavaScript in a variety of environments.">node.js</div>
+                            <div class="label" title="Git is the most widely used version control system.">git</div>
                             <div class="label" title="Docker is a platform built for developers to build and run applications.">docker</div>
                             <div class="label" title="TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.">typescript</div>
                             <div class="label" title="Kubernetes is an open source system for automating deployment, scaling, and management of containerized applications.">kubernetes</div>
