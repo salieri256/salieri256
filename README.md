@@ -1,17 +1,11 @@
 <div align="center">
-
-# Hi there <img src="./icons/hi.svg" alt="👋" align="top" height="41">
-
-![](./metrics/isocalendar.svg)
-![](./metrics/followup.svg)
-![](./metrics/topics.svg)
-
-## Skill
-
-204 No Content
+  <p style="font-size:2rem;">\ はじめまして<img src="./icons/hi.svg" alt="👋" style="vertical-align:top; height:3rem;"> /</p>
+  <img src="./icons/zatochan.png" alt="👤🩵👗🐈‍⬛👓💄" height="300rem" style="border-radius:50%; margin-bottom:2rem;">
+  <p>📛かっこカワイイものが好きなエンジニアです📛</p>
+  <p>📡ネットワークやプログラミングに興味があります📡<p>
 
 ---
-
-![typograssy](https://typograssy.deno.dev/api?text=%E3%81%AA%E3%82%93%E3%81%A8%E3%81%8B%E3%81%AA%E3%82%8C%E3%83%BC%EF%BC%81)
+### 🌱 なんとなくわかるもの 🌱
+![私といえば...](https://skillicons.dev/icons?i=vscode,nodejs,python,raspberrypi,docker&theme=light)
 
 </div>
