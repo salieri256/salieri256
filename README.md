@@ -4,9 +4,14 @@
   <br /><br /><br />
   <p>📛かっこカワイイものが好きなエンジニア📛</p>
   <p>📡ネットワークやプログラミングに興味あり📡<p>
+  <br />↓<br />↓<br />↓
+
+  [✍️ブログ✍️](https://k4u.jp/posts/)\
+  [🐦Twitter🐦](https://x.com/k4u_jp)\
+  [🐙GitHub🐈](https://github.com/salieri256)
 
 ---
 ### 🌱 なんとなく わかるもの 🌱
-![私といえば...](https://skillicons.dev/icons?i=vscode,nodejs,python,raspberrypi,docker&theme=light)
+[![私といえば...](https://skillicons.dev/icons?i=vscode,nodejs,python,raspberrypi,docker&theme=light)](https://skillicons.dev)
 
 </div>
