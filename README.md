@@ -16,7 +16,7 @@ Web 周り (HTML, CSS, JavaScript) を触っていました。\
 
 [![][icon-twitter]](https://x.com/k4u_jp)
 [![][icon-github]](https://github.com/salieri256)
-[![][icon-house]](https://k4u.jp/posts/)
+[![][icon-house]](https://k4u.jp)
 
 [icon-house]: ./icons/house.svg
 [icon-twitter]: ./icons/twitter.svg
