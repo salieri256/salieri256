@@ -12,7 +12,7 @@ Web 周り (HTML, CSS, JavaScript) を触っていました。\
 
 あなたの記憶の片隅に居れると嬉しいです (^╷  ̫╷^)
 
-## リンク
+## 🔗 リンク 🔗
 
 [![][icon-twitter]](https://x.com/k4u_jp)
 [![][icon-github]](https://github.com/salieri256)
@@ -27,5 +27,19 @@ Web 周り (HTML, CSS, JavaScript) を触っていました。\
 [![][icon-skills]](https://skillicons.dev)
 
 [icon-skills]: https://skillicons.dev/icons?i=linux,docker,openstack,terraform,ansible,cloudflare,html,css,javascript,python&theme=light
+
+## ✍️ その他 ✍️
+
+### 2025
+
+|<img src="./miscs/self-made-cpu.jpg" width="300rem">|
+|:-:|
+|『CPUの創りかた』を読んでCPUを作った (画像はメモリ部)|
+
+### 2022
+
+|<img src="./miscs/lab-smartlock.jpg" width="300rem">|
+|:-:|
+|研究室用にスマートロックを作った<br>🔗 [salieri256/opensesame-front: 入退室管理システム](https://github.com/salieri256/opensesame-front)<br>🔗 [salieri256/opensesame-back: 入退室管理システム](https://github.com/salieri256/opensesame-back)|
 
 </div>
