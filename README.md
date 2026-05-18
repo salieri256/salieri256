@@ -6,9 +6,13 @@
   <p>📡ネットワークやプログラミングに興味あり📡<p>
   <br />↓<br />↓<br />↓
 
-  [✍️ブログ✍️](https://k4u.jp/posts/)\
-  [🐦Twitter🐦](https://x.com/k4u_jp)\
-  [🐙GitHub🐈](https://github.com/salieri256)
+[![][icon-twitter]](https://x.com/k4u_jp)
+[![][icon-github]](https://github.com/salieri256)
+[![][icon-house]](https://k4u.jp/posts/)
+
+[icon-house]: ./icons/house.svg
+[icon-twitter]: ./icons/twitter.svg
+[icon-github]: ./icons/github.svg
 
 ---
 ### 🌱 なんとなく わかるもの 🌱
