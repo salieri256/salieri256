@@ -1,6 +1,6 @@
 <div align="center">
   <h3>\ Hi <img src="./icons/hi.svg" alt="👋" align="top" height="30rem"> /</h3>
-  <img src="./icons/icon.png" alt="👤🩵👗🐈‍⬛👓💄" height="300rem" />
+  <img src="./icons/icon.png" alt="🐈" height="300rem" />
   <br /><br /><br />
 
 **さりえり** といいます。
@@ -14,19 +14,19 @@ Web 周り (HTML, CSS, JavaScript) を触っていました。\
 
 ## 🔗 リンク 🔗
 
-[![][icon-twitter]](https://x.com/k4u_jp)
-[![][icon-github]](https://github.com/salieri256)
-[![][icon-house]](https://k4u.jp)
+[![Twitter][icon-twitter]](https://x.com/k4u_jp)
+[![GitHub][icon-github]](https://github.com/salieri256)
+[![Homepage][icon-house]](https://k4u.jp)
 
-[icon-house]: ./icons/house.svg
 [icon-twitter]: ./icons/twitter.svg
 [icon-github]: ./icons/github.svg
+[icon-house]: ./icons/house.svg
 
 ## 🌱 興味・関心 🌱
 
-[![][icon-skills]](https://skillicons.dev)
+[![Skill][icon-skills]](https://skillicons.dev)
 
-[icon-skills]: https://skillicons.dev/icons?i=linux,docker,openstack,terraform,ansible,cloudflare,html,css,javascript,python&theme=light
+[icon-skills]: https://skillicons.dev/icons?i=linux,docker,openstack,terraform,ansible,cloudflare,html,css,javascript,python&theme=light&perline=10
 
 ## ✍️ その他 ✍️
 
