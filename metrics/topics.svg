@@ -23,8 +23,8 @@
                             <div class="label" title="Git is the most widely used version control system.">git</div>
                             <div class="label" title="Docker is a platform built for developers to build and run applications.">docker</div>
                             <div class="label" title="TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.">typescript</div>
-                            <div class="label" title="Kubernetes is an open source system for automating deployment, scaling, and management of containerized applications.">kubernetes</div>
                             <div class="label" title="React Native is a JavaScript mobile framework developed by Facebook.">react native</div>
+                            <div class="label" title="Kubernetes is an open source system for automating deployment, scaling, and management of containerized applications.">kubernetes</div>
                             <div class="label" title="npm is a package manager for JavaScript included with Node.js.">npm</div>
                             <div class="label" title="Ansible is a simple and powerful automation engine.">ansible</div>
                             <div class="label" title="An infrastructure-as-code tool for building, changing, and versioning infrastructure safely and efficiently.">terraform</div>
